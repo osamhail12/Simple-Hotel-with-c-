@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  customer.cpp
+  employee.cpp
+  hotel.cpp
+  person.cpp
+D:\ALL(Projects)\C++\Hotel\ConsoleApplication1\person.cpp(28,13): warning C4244: 'argument': conversion from 'long' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  S Hotel.cpp
+D:\ALL(Projects)\C++\Hotel\ConsoleApplication1\S Hotel.cpp(105,7): warning C4101: 'id_card': unreferenced local variable
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\ALL(Projects)\C++\Hotel\Debug\Project Application Hotel.exe
